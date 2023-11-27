@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi there! I'm a nerd and high school student who loves programming, robotics, music, and art.
+https://oldfashionedjelly.neocities.org/
 
 <!--
 **oldfashionedjelly/oldfashionedjelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
