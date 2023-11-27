@@ -1,4 +1,4 @@
-Hi there! I'm a nerd and high school student who loves programming, robotics, music, and art. I also love watching football and formula 1 and being outside!
+Hi there! I'm a nerd and high school student who loves programming, robotics, music, and art.
 
 https://oldfashionedjelly.neocities.org/
 
