@@ -1,4 +1,4 @@
-Hi there! I'm a nerdy high school student who loves programming, robotics, music, and art.
+Hi there! I'm a high school student who loves programming, robotics, music, and art.
 
 
 <!--
